@@ -1,6 +1,6 @@
 ---
 title: "MSCI 598 Report"
-author: "Nicholas Calen"
+author: "Nicholas Calen, Darion Stewart"
 date: "05/10/2022"
 output: pdf_document
 extra_dependencies: ["float"]
